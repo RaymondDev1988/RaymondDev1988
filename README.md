@@ -14,8 +14,8 @@ My Proficient Skills:
  - Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Svelte, Solid.js, Angular, UI Frameworks(MUI, AntD, ...), Tailwind
  - Backend: Django & Django Restframework, Node.js, Express.js, Nest, Laravel
  - Mobile: React Native, Ionic, Android(Java)
- - Cloud: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Cloudflare(Pages, Workers, ...), GCP
- - Project Manangement: Jira, Asana, Trello, Teams, Notion
+ - Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Cloudflare(Pages, Workers, ...), Firebase, Heroku, Netlify, Vercel, ...
+ - Project Manangement: Jira, Asana, Trello, Teams, Notion, Github, Butbucket, Gitlab
  - Others: Mathematics, Strong Algorithms, Data Science, Machine Learning
 
 
