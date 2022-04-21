@@ -1,4 +1,4 @@
-![alt README header]<img src="/header.png" height="auto" width="40">
+![alt README header](https://github.com/SuperStar1995/SuperStar1995/blob/main/assets/header.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=versa-dev&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/versa-dev)
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/versa-dev)
