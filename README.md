@@ -8,15 +8,14 @@
 Hey 👋🏻,
 
 
-I am a senior full-stack engineer with 8 years of hands on experience from China 🇨🇳.
+I am a senior full-stack developer with 11 years of hands on experience from US.
 
 My Proficient Skills: 
- - Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Svelte, Solid.js, Angular, UI Frameworks(MUI, AntD, ...), Tailwind
- - Backend: Django & Django Restframework, Node.js, Express.js, Nest, Laravel
- - Mobile: React Native, Ionic, Android(Java)
- - Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Cloudflare(Pages, Workers, ...), Firebase, Heroku, Netlify, Vercel, ...
- - Project Manangement: Jira, Asana, Trello, Teams, Notion, Github, Butbucket, Gitlab
- - Others: Mathematics, Strong Algorithms, Data Science, Machine Learning
+ - Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, UI Frameworks(MUI, AntD, ...), Tailwind
+ - Backend: Django & Django Restframework, Node.js, Express.js, Laravel
+ - Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Heroku, DigitalOcean
+ - Project Manangement: Jira,Notion, Github, Butbucket, Gitlab
+ - Others: Mathematics, Strong Algorithms, Data Science
 
 
 ## My Skill Set:
@@ -63,14 +62,10 @@ My Proficient Skills:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versa-dev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/versa-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=versa-dev&hide=PHP&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zhao's GitHub Stats" />
-</a>
-
 
 ## 📬 Get in Touch
 
 
-- Email:  mailto:zhaoping.dev@gmail.com
-- Skype:  https://join.skype.com/invite/VsuSSsTKuntZ
-- Discord:  https://discord.gg/3TNTvB7unX
+- Email:  raymonddowden1988@gmail.com
+- Skype:  live:.cid.6a55db3542891fb9
+- LinkedIn: https://www.linkedin.com/in/raymond-dowden-b400b1237/
